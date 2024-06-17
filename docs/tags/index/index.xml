@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>index on Trabalenguas CPEM 55</title>
-    <link>/tags/index/</link>
+    <link>/trabalenguas-55/tags/index/</link>
     <description>Trabalenguas CPEM 55 (index)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    <atom:link href="/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/trabalenguas-55/tags/index/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

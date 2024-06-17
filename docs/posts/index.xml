@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trabalenguas on Trabalenguas CPEM 55</title>
-    <link>/posts/</link>
+    <link>/trabalenguas-55/posts/</link>
     <description>Trabalenguas CPEM 55 (Trabalenguas)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/trabalenguas-55/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>El ajo picó a la col</title>
-      <link>/posts/el-ajo-pico-a-la-col/</link>
+      <link>/trabalenguas-55/posts/el-ajo-pico-a-la-col/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/posts/el-ajo-pico-a-la-col/</guid>
+      <guid>/trabalenguas-55/posts/el-ajo-pico-a-la-col/</guid>
       <description>&lt;p&gt;El ajo picó a la col, La col picó al ajo Ajo, col y caracol Caracol y col con ajo.&lt;/p&gt;
 &lt;h1 id=&#34;esto-es-un-ejemplo-de-diagrama&#34; &gt;
 &lt;div&gt;
@@ -41,10 +41,10 @@
     
     <item>
       <title>Enredo</title>
-      <link>/posts/enredo/</link>
+      <link>/trabalenguas-55/posts/enredo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/posts/enredo/</guid>
+      <guid>/trabalenguas-55/posts/enredo/</guid>
       <description>&lt;p&gt;Por desenredar el enredo que ayer enredé, hoy enredo el desenredo que desenredé ayer.&lt;/p&gt;
 </description>
     </item>
