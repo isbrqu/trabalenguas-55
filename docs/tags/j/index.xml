@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>j on Trabalenguas CPEM 55</title>
+    <link>/tags/j/</link>
+    <description>Trabalenguas CPEM 55 (j)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+    <atom:link href="/tags/j/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>El ajo picó a la col</title>
+      <link>/posts/el-ajo-pico-a-la-col/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/el-ajo-pico-a-la-col/</guid>
+      <description>&lt;p&gt;El ajo picó a la col, La col picó al ajo Ajo, col y caracol Caracol y col con ajo.&lt;/p&gt;
+&lt;h1 id=&#34;esto-es-un-ejemplo-de-diagrama&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#esto-es-un-ejemplo-de-diagrama&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Esto es un ejemplo de diagrama
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;pre class=&#34;mermaid&#34;&gt;gantt
+    title A Gantt Diagram
+    dateFormat YYYY-MM-DD
+    section Section
+        A task          :a1, 2014-01-01, 30d
+        Another task    :after a1, 20d
+    section Another
+        Task in Another :2014-01-12, 12d
+        another task    :24d
+&lt;/pre&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
