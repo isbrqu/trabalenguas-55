@@ -1,3 +1,34 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = "en-us"
+theme = "anubis2"
+title = "Trabalenguas CPEM 55"
+
+[author]
+name = "Fioni & Aisaac"
+
+[params]
+colorThemeSwitcher = true
+
+[markup.goldmark.renderer]
+unsafe = true # Enable unsafe mode to have a better experience
+
+[markup.highlight]
+style = 'base16-snazzy' # Highlight.js style
+
+[[menu.main]]
+identifier = "home"
+name = "Inicio"
+url = "/"
+weight = 1
+
+[[menu.main]]
+identifier = "tags"
+name = "Etiquetas"
+url = "/tags/"
+weight = 3
+
+[[menu.main]]
+identifier = "archive"
+name = "Archivados"
+url = "/archive/"
+weight = 4
