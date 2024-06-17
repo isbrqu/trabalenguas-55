@@ -5,4 +5,7 @@ tags = [
 ]
 +++
 
-Por desenredar el enredo que ayer enredé, hoy enredo el desenredo que desenredé ayer.
+> Por desenredar el enredo que ayer enredé,<br>
+> hoy enredo el desenredo que desenredé ayer.
+
+<!--more-->
