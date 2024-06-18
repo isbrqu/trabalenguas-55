@@ -44,5 +44,5 @@ weight = 3
 [[menu.main]]
 identifier = "archive"
 name = "Archivados"
-url = "/archive/"
+url = "/posts/"
 weight = 4
