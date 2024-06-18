@@ -1,13 +1,27 @@
 baseURL = 'https://isbrqu.github.io/trabalenguas-55/'
-languageCode = "en-us"
+languageCode = "es"
 theme = "anubis2"
-title = "Trabalenguas CPEM 55"
+title = "La Voz del 55 - Trabalenguas"
+
+
+defaultContentLanguage = "es"
+[languages]
+  [languages.es]
+    languageName = "Español"
+    weight = 1
 
 [author]
 name = "Fioni & Aisaac"
 
 [params]
 colorThemeSwitcher = true
+math = false
+rssAsSocialIcon = true
+social = [
+  { id = "email", url = "example@example.com" },
+  { id = "instagram", url = "https://www.instagram.com/radiolavozdel55" },
+  { id = "youtube", url = "https://www.youtube.com/channel/UC3aRmAXFTsBbPNAaeVobQMw/playlists" }
+]
 
 [markup.goldmark.renderer]
 unsafe = true # Enable unsafe mode to have a better experience
