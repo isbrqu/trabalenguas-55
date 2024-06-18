@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Trabalenguas on Trabalenguas CPEM 55</title>
+    <title>Trabalenguas on La Voz del 55 - Trabalenguas</title>
     <link>/trabalenguas-55/posts/</link>
-    <description>Trabalenguas CPEM 55 (Trabalenguas)</description>
+    <description>La Voz del 55 - Trabalenguas (Trabalenguas)</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>es</language>
     <lastBuildDate>Tue, 18 Jun 2024 06:37:44 -0300</lastBuildDate>
     
     <atom:link href="/trabalenguas-55/posts/index.xml" rel="self" type="application/rss+xml" />
