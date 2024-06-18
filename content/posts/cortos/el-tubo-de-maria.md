@@ -1,6 +1,7 @@
 +++
 title = 'El Tubo De María'
 date = 2024-06-17T16:27:41-03:00
+tags = ["corto"]
 +++
 
 > María tuvo un tubo, el tubo que tuvo<br>

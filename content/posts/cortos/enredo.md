@@ -1,8 +1,6 @@
 +++
-title = "Enredo"
-tags = [
-    "emoji",
-]
+title = 'Enredo'
+tags = ['corto']
 +++
 
 > Por desenredar el enredo que ayer enredé,<br>

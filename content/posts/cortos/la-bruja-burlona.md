@@ -1,6 +1,7 @@
 +++
 title = 'La Bruja Burlona'
 date = 2024-06-17T16:27:42-03:00
+tags = ["corto"]
 +++
 
 > Una bruja muy burlona compró una braga <br>

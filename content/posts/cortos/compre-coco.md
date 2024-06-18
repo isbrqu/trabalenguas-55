@@ -1,6 +1,7 @@
 +++
 title = 'Compre Coco'
 date = 2024-06-17T16:27:42-03:00
+tags = ["corto"]
 +++
 
 > Cómpreme coco compadre,<br>

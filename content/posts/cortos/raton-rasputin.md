@@ -1,6 +1,7 @@
 +++
 title = 'Raton Rasputin'
 date = 2024-06-17T16:27:40-03:00
+tags = ["corto"]
 +++
 
 > Rasputín era un ratón que rascaba en una risca con un tosco.<br>

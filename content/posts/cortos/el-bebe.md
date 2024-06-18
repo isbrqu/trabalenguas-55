@@ -1,6 +1,7 @@
 +++
 title = 'El Bebe'
 date = 2024-06-17T16:27:39-03:00
+tags = ["corto"]
 +++
 
 > Que el bebé cese de beber leche frente a la tele,<br>

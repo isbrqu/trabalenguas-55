@@ -1,6 +1,7 @@
 +++
 title = 'Maria Chucena'
 date = 2024-06-17T16:27:40-03:00
+tags = ["corto"]
 +++
 
 > María Chucena techaba su choza<br>

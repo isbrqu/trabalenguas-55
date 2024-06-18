@@ -1,6 +1,7 @@
 +++
 title = 'Tres Tristes Tigres'
 date = 2024-06-17T16:27:41-03:00
+tags = ["corto"]
 +++
 
 > Tres tristes tigres tragaban trigo en<br>
